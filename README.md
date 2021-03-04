@@ -1,1 +1,1 @@
-Experiements related to computer vision tasks.
+Experiments related to computer vision tasks.
